@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item
+            android:title="Open"
+            android:id="@+id/Open"
+            android:orderInCategory="1"
+            />
+        <item
+            android:title="Save"
+            android:id="@+id/Save"
+            android:orderInCategory="1"
+            />
+        <item
+            android:title="Del"
+            android:id="@+id/Del"
+            android:orderInCategory="1"
+            />
+        <item
+            android:title="Search"
+            android:id="@+id/Search"
+            android:orderInCategory="1"
+            />
+</menu>
